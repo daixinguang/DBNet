@@ -1,0 +1,10 @@
+hm_thr = 0.4 
+kpt_thr = 0.3
+cpt_thr = 0.3 
+points_thr = 7 
+cluster_thr = 4 
+cluster_by_center_thr = 4
+group_fast = True
+# points_thr = [5, 7, 9] 
+# cluster_thr = [3, 4, 5] 
+# cluster_by_center_thr = [3, 4, 5]
